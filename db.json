@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": "murugan",
+      "name": "murugan",
+      "password": "murugan",
+      "email": "m@gmail.com",
+      "phone": "234567",
+      "country": "usa",
+      "Address": "q234w",
+      "gender": "male"
+    }
+  ]
+}
